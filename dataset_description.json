@@ -3,7 +3,10 @@
     "BIDSVersion": "1.6.0",
     "DatasetType": "raw",
     "Authors": [
-        "[Unspecified]"
+        "Pesnot Lerousseau, J.",
+        "Parise, C.",
+        "Ernst, MO.",
+        "van Wassenhove, V."
     ],
     "License": "CC0"
 }
