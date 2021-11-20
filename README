@@ -7,11 +7,14 @@ Published in: [our ref]
 ### PARTICIPANTS
 The dataset contains 13 participants (Ab140232, Jl150443, Mm150194, Al150424, Mp110340, Rt160359, Cb140229, Cc160310, Lb160367, Mb160304, Mk150295, Sl160372, Mp150285). 
 
-## EXPERIMENT
+### EXPERIMENT
 The experiment consisted of 10 consecutive recording blocks of 8 minutes each, whose order was counterbalanced across participants. Three blocks tested participants on a Causality judgement, and three blocks tested participants with a Temporal order judgement. Importantly, the same audiovisual sequences were used in both tasks in order to maintain a constant flow of feedforward multisensory inputs while manipulating the endogenous task requirements. Each bloc was composed of 25 repetitions of the 6 possible audiovisual sequences. A total of 75 presentations of each stimulus sequence were thus tested in each task. Four additional recording blocks consisted of participants passively hearing (auditory localizer, 2 blocks) or viewing (visual localizer, 2 blocks) one constitutive modality of the audiovisual sequence. Each localizer block was composed of 25 repetitions of the 6 possible stimuli (auditory or visual part of each stimuli), yielding a total of 50 presentations of each auditory and visual stimuli (2 x 3 x 25 x 6 + 2 x 25 x 2 x 6 = 1500 trials in total). 
 
-## STIMULI
+### STIMULI
 Six audiovisual sequences were presented (DD, DC, CC, AA, AV, VV). 
+
+### BLOCKS
+Ten blocks were presented (3 Causality, 3 Temporal, 2 Auditory, 2 Visual). 
 
 ## EVENTS
 - 'Causality/DD':11
@@ -39,7 +42,7 @@ Six audiovisual sequences were presented (DD, DC, CC, AA, AV, VV).
 - 'Visual/AV':55
 - 'Visual/VV':56
 
-## MEG
+### MEG
 Brain magnetic fields were recorded in a MSR using a 306 MEG system (Neuromag Elekta LTD, Helsinki). MEG recordings were sampled at 1 kHz and band-pass filtered between 0.03 Hz and 330 Hz.
 
 Four head position coils (HPI) measured the head position of participants before each block; three fiducial markers (nasion and pre-auricular points) were used for digitization and anatomicalMRI (aMRI) immediately following MEG acquisition.
@@ -48,14 +51,14 @@ Electrooculograms (EOG, horizontal and vertical eye movements) and electrocardio
 
 Bad MEG channels were marked manually.
 
-## MRI
+### MRI
 The T1 weighted aMRI was recorded using a 3-T Siemens Trio MRI scanner. Parameters of the sequence were: voxel size: 1.0 × 1.0 × 1.1 mm; acquisition time: 466 s; repetition time TR = 2300 ms; and echo time TE = 2.98 ms
 
-## BEHAVIOR
+### BEHAVIOR
 
 File data.txt
 
-## REFERENCES
+### REFERENCES
 
 [our ref]
 
