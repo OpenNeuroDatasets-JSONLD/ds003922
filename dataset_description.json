@@ -18,5 +18,7 @@
         "Local Ethics Committee on Human Research at NeuroSpin (Gif-sur-Yvette, France)"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds003922.v1.0.0",
-    "ReferencesAndLinks": []
+    "ReferencesAndLinks": [
+        "Pesnot Lerousseau, J., Parise, C., Ernst, MO., van Wassenhove, V. (2022). Multisensory correlation computations in the human brain identified by a time-resolved encoding model. Nature Communications."
+    ]
 }
