@@ -2,7 +2,7 @@
 Magnetoencephalography (MEG) dataset recorded during the presentation of audiovisual sequences with a causality judgment task and temporal order judgment task. This MEG dataset was prepared in the Brain Imaging Data Structure (MEG-BIDS, Niso et al. 2018) format using MNE-BIDS (Appelhoff et al. 2019).
 
 ### PUBLISHED IN
-Published in: Pesnot Lerousseau, J., Parise, C., Ernst, MO., van Wassenhove, V. (2022). Multisensory correlation computations in the human brain identified by a time-resolved encoding model. Nature Communications, X. http://doi.org/
+Pesnot Lerousseau, J., Parise, C., Ernst, MO., van Wassenhove, V. (2022). Multisensory correlation computations in the human brain identified by a time-resolved encoding model. Nature Communications, X. http://doi.org/
 
 ### PARTICIPANTS
 The dataset contains 13 participants (Ab140232, Jl150443, Mm150194, Al150424, Mp110340, Rt160359, Cb140229, Cc160310, Lb160367, Mb160304, Mk150295, Sl160372, Mp150285). 
